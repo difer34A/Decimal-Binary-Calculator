@@ -1,6 +1,6 @@
 # Decimal-Binary Calculator
 
-#Check Deployment at: https://difer34a.github.io/Decimal-Binary-Calculator/
+You can check Deployment at: https://difer34a.github.io/Decimal-Binary-Calculator/
 
 Simple Webpage that turns Decimal numbers to Binary or
 Binary to Decimal numbers
