@@ -5,4 +5,5 @@
 Simple Webpage that turns Decimal numbers to Binary or
 Binary to Decimal numbers
 
-Demo:![ezgif com-gif-maker](https://user-images.githubusercontent.com/82135722/178155409-d4b4dd6c-f6ca-4f63-ada3-c40075014ced.gif)
+Demo:
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/82135722/178155409-d4b4dd6c-f6ca-4f63-ada3-c40075014ced.gif)
